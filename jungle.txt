@@ -1,2 +1,3 @@
 fox
  lion is a animal
+goat s a animal
